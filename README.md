@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/folderr-tech-folderr-mcp-server-badge.png)](https://mseep.ai/app/folderr-tech-folderr-mcp-server)
+
 # Folderr MCP Server
 
 A Model Context Protocol (MCP) server that provides tools to interact with Folderr's API, specifically for managing and communicating with Folderr Assistants.
